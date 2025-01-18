@@ -9,3 +9,12 @@ Two is a Rural Login Page For a Site thats more Nature Focused
 
  To View you can save the Index.html and style.css in the same folder on your desktop then right click the index file and open in your preferred Browser.
  (Not sure if things will load correctly in IE or Edge) Should work.. probably.
+ Also added a HealthCare Nav.Web Page Template. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ I XVII19 reserve Ownership of all these Templates as they are. 
