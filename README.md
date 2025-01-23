@@ -1,21 +1,12 @@
 # Webpage-Templates
-Simple HTML CSS Web Page Designs
+Simple HTML CSS JavaScript Web Page Designs
+Here are the links to each Template to see and try them out 
+Student Database:  file:///home/xvii/Desktop/StuDB-Template/index.html
+Glassmorphism 1 NavPage:  file:///home/xvii/Desktop/Glassmorphism1/index.html
+Glassmorphism 2 Rural Login Page:  file:///home/xvii/Desktop/Glassmorphism2/index.html
+Colorful Hover Tab Selector: file:///home/xvii/Desktop/ColorfullHoverButton/index.html
+Animated Neon Button: file:///home/xvii/Desktop/NeonButton/index.html
+Well Designed HealthCare Webpage:  file:///home/xvii/Desktop/Healthcare-Nav.Webpage%20Template%20/index.html
 
-The Style for both are Glassmorphism 
-One is a Warm Vibrant Color that you can almost taste
-Two is a Rural Login Page For a Site thats more Nature Focused 
-
- These are my first attempts at the particular style. Feedback would be appreciated for growth if needed.
-
- To View you can save the Index.html and style.css in the same folder on your desktop then right click the index file and open in your preferred Browser.
- (Not sure if things will load correctly in IE or Edge) Should work.. probably.
- Also added a HealthCare Nav.Web Page Template. 
- AI-Prompt-ChatBox Template 
-
- 
- 
- 
- 
- 
  
  I XVII19 reserve Ownership of all these Templates as they are. 
